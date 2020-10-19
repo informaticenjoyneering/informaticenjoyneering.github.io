@@ -1,2 +1,1 @@
-## Selamat Datang
-### Menambahkan Kontributor
+Selamat Datang
